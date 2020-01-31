@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <string.h>
+
+int main( void ){
+   int i, *pointer, &address, I;
+   int 1j_jjj, sum, int2, main2;
+   printf("%d", 5);
+   FOr( i = 0; i<10; i++ ){
+      sum = i + I;
+      int2;
+   }
+}
+

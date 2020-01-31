@@ -1,0 +1,120 @@
+
+Total: 278 tokens
+
+Reserved word: 24
+include (x2)
+main 
+char 
+int 
+float 
+if 
+elseif 
+else 
+for (x2)
+while (x3)
+do 
+switch 
+case (x4)
+scanf (x2)
+printf 
+return 
+
+Library name: 2
+<stdio.h>
+<stdlib.h>
+
+Comment: 3
+/*for loop*/
+//while loop
+/*scanf //
+                     scanf*/
+
+Identifier: 51
+ca 
+ia (x7)
+ib (x9)
+ic (x5)
+ie (x8)
+fa_1 (x10)
+fb (x11)
+
+Constant: 27
+5
+2
+3.6
+-55
+2
+4
+2
+5
+0
+10
+5
+0
+2.5
+-3
+5
+3
+5
+1
+2
+3
+10/
+0q
+3
+1
+1ÑÇæþ
+3hÿ
+4
+
+Operator: 45
+& (x4)
+= (x17)
++ (x6)
+* (x4)
+| (x3)
+- (x3)
+/ (x3)
+^ (x2)
+% 
+++ 
+-- 
+
+Comparator: 8
+== 
+> (x2)
+!= 
+>= 
+<= 
+< (x2)
+
+Bracket: 45
+{ (x4)
+( (x25)
+) (x12)
+} (x4)
+
+Format specifier: 10
+%c 
+%d (x4)
+\\ (x2)
+\t 
+%f 
+\n 
+
+Pointer: 9
+*id (x9)
+
+Address: 3
+&ig (x3)
+
+Punctuation: 49
+# (x2)
+; (x28)
+, (x12)
+" (x6)
+: 
+
+Printed token: 2
+Print
+numbers:
