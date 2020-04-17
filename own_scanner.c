@@ -10,7 +10,6 @@
 
 int main( void ){
     
-    int test2 = 0;
     int five = 5;
     int j = 0;
     char check_word[NORMAL];
